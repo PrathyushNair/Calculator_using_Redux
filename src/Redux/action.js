@@ -1,0 +1,6 @@
+export const add="add"
+export const dec="dec"
+export const addwithval="addwithval"
+export const mulwithval="mulwithval"
+export const subwithval="decwithval"
+export const divwithval="divwithval"
